@@ -27,7 +27,7 @@
 
   <ItemGroup>
     <Reference Include="LoggingClassLibrary">
-      <HintPath>..\LoggingClassLibrary.dll</HintPath>
+      <HintPath>..\..\LoggingClassLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 
